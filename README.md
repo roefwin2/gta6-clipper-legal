@@ -1,3 +1,3 @@
-# GTA 6 Clipper – pages légales
+# ClipPilot – pages légales
 
-Conditions et politique de confidentialité de l app TikTok GTA 6 Clipper, servies par GitHub Pages.
+Conditions et politique de confidentialité de l app TikTok ClipPilot, servies par GitHub Pages.
